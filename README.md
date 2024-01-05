@@ -19,4 +19,4 @@ Bu Jupyter Notebook, harmonik üreten güç sistemleri elemanlarıyla ilgili ver
 Proje ile ilgili herhangi bir soru veya geri bildirim için lütfen iletişime geçin:
 
 E-posta: dagacaa@gmail.com
-LinkedIn: [Adınız Soyadınız](https://www.linkedin.com/in/damla-a%C4%9Fa%C3%A7a-b05702212/)
+LinkedIn: [Damla Ağaça](https://www.linkedin.com/in/damla-a%C4%9Fa%C3%A7a-b05702212/)
