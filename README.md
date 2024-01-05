@@ -1,5 +1,5 @@
 # Classification-of-Harmonic-Generating-Power-System-Elements-with-Artificial-Intelligence-Methods
-Bu repo, **"Harmonik Üreten Güç Sistemi Elemanlarının Yapay Zeka Yöntemleriyle Sınıflandırılması"** başlıklı tez çalışması kapsamında gerçekleştirilen bazı çalışmaları içermektedir. Bu repo, tez tamamlanana kadar güncellenmeye devam edecektir. Veri seti, tez bitimine kadar paylaşılmayacaktır.
+Bu repo, **"Harmonik Üreten Güç Sistemi Elemanlarının Yapay Zeka Yöntemleriyle Sınıflandırılması"** başlıklı tez çalışması kapsamında gerçekleştirilen bazı çalışmaları içermektedir. Bu repo, tez tamamlanana kadar güncellenmeye devam edecektir.
 
 ## Proje Hakkında
 Bu projede, harmonik üreten güç sistemi elemanları üzerinde yapay zeka yöntemleri kullanılarak sınıflandırma çalışmaları gerçekleştirilmektedir. Proje kapsamında kullanılan yöntemler ve elde edilen sonuçlar repo içinde detaylı bir şekilde paylaşılacaktır.
