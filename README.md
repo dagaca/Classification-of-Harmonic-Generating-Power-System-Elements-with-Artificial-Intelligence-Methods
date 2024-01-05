@@ -13,7 +13,7 @@ Bu Jupyter Notebook, sınıflandırma modelinin eğitimi ve testi için kullanı
 - Harmonic_Data_Analysis_&_Correlation_Matrix.ipynb:
 Bu Jupyter Notebook, harmonik üreten güç sistemleri elemanlarıyla ilgili veri analizi ve korelasyon matrisi ile özellik seçimi yöntemini içeren Python kodlarını içermektedir.
 
-**Repo içeriği tezin gelişimine paralel olarak güncellenecek ve projenin tamamlanmasıyla birlikte son halini alacaktır.**
+**Repo içeriği tezin gelişimine paralel olarak güncellenecek ve tezin tamamlanmasıyla birlikte son halini alacaktır.**
 
 ## İletişim
 Proje ile ilgili herhangi bir soru veya geri bildirim için lütfen iletişime geçin:
